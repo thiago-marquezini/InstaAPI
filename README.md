@@ -1,6 +1,9 @@
 # InstaAPI
 
-API de Busca Segmentada no Instagram (Para seguir perfis que se encaixam no parametro de busca)
+API de Busca Segmentada no Instagram para seguir perfis que se encaixam no parametro de busca.
+O objetivo é que os perfis seguidos sigam de volta criando uma base de seguidores segmentados.
+
+O sistema de tarefas é capaz de deixar de seguir os perfis que nao seguiram de volta em um certo periodo de tempo pre-definido.
 
 Funcoes principais (controllers/Insta.php):
 
